@@ -85,7 +85,7 @@
 
 1. 模板编译入口函数:compileToFunctions(template, {}, this)
 
-   - 先从缓存中加载编译好的 render 函数
+   - 先从缓存中加载编译好的  render 函数
 
    - 缓存中没有则调用 compile(template, options)
 
